@@ -10,7 +10,7 @@ To Run the batch script (Mothur.batch.taxass), please follow the directions belo
 
 ## 3. Install Oligotyping software in your local directory
 ```R
-module load python-anaconda2/201607
+module load python-anaconda3/201607
 pip install --user oligotyping
 ```
 To check to make sure that the path to the oligotyping package is correct, try using a command from the oligotyping module:
